@@ -15,28 +15,6 @@ This is a simple blog application built using React and Node.js. The application
 - **Backend**: Node.js, Express.js
 - **Other**: Axios, Local Storage
 
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/username/react-nodejs-blog.git
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the application:**
-   ```bash
-   npm start
-   ```
-
-4. **Start the Node.js server:**
-   ```bash
-   node server.js
-   ```
-
 ## Contributing
 Contributions are welcome! Please submit a pull request if you'd like to contribute.
 
