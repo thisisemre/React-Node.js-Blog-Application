@@ -1,8 +1,3 @@
-### Project Description:
-A simple blog application built with React and Node.js. It allows users to register, log in, and view blog posts. Access to the blog is restricted to authenticated users only.
-
----
-
 ### README
 
 # React Node.js Blog Application
