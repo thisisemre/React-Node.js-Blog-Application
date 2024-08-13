@@ -11,12 +11,14 @@ This is a simple blog application built using React and Node.js. The application
 - Simple session management using local storage
 
 ## Technologies Used
-- **Frontend**: React.js,
+- **Frontend**: React.js
 - **Backend**: Node.js, Express.js
-- **Other**: Axios, Local Storage
+- **Database**: PostgreSQL
 
 ## Contributing
 Contributions are welcome! Please submit a pull request if you'd like to contribute.
 
 ## License
 This project is licensed under the MIT License.
+
+---
